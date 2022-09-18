@@ -1,4 +1,4 @@
-# Microcontrollers + Proteus
+# Microcontrollers, Arduino + Proteus
 
 The first laboratory.
 
