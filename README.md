@@ -1,4 +1,4 @@
-# Microcontrollers, Arduino + Proteus
+# Microcontrollers course, Arduino + Proteus
 
 The first laboratory.
 
